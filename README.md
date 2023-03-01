@@ -11,3 +11,4 @@ This is my first repo
 2. Comments
 3. variables
 4. conditions
+5. loops
