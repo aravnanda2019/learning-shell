@@ -12,3 +12,8 @@ This is my first repo
 3. variables
 4. conditions
 5. loops
+6. functions
+7. Inputs
+8. Exit status
+9. Quotes
+10. Redirectors
